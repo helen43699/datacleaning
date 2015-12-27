@@ -4,7 +4,9 @@ Getting and Cleaning Data Course Project
 # Use 'http' instead of 'https' for downloading.  'https' doesn't work for me, i.e. Windows 7.
 fileUrl = "http://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip?accessType=DOWNLOAD"
 download.file(fileUrl, destfile = "uci.zip")
+
 dateDownloaded=date()
+
 dateDownloaded
 [1] "Sat Dec 26 18:30:32 2015"
 
