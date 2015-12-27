@@ -23,3 +23,5 @@ unzip("uci.zip")
 # Step 3: Run scripts in run_analysis.R
 
 # Step 4: Get the data file.  A tidy data set will be generated at C:\Users\y.alvarado\Documents\Me\JHDSS\CleaningData\RWorkingDir\data\data.txt
+
+#  Whenever codeBook is referred, please open it in raw mode.
