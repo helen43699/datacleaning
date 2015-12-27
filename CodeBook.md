@@ -3,6 +3,7 @@ DATA DICTIONARY - Human Activity Recognition Using Smartphones Data Set
 Column No.                                   Column Name    Value Range or Type      Comments
 
  1:                                              Subject    1 - 30                   The participant ("subject") ID
+ 
  2:                                             Activity                             Exercise Activity
 					                                                  WALKING
 							    					                                WALKING_UPSTAIRS
