@@ -24,4 +24,5 @@ unzip("uci.zip")
 
 # Step 4: Get the data file.  A tidy data set will be generated at C:\Users\y.alvarado\Documents\Me\JHDSS\CleaningData\RWorkingDir\data\data.txt
 
+# Note:
 #  Whenever codeBook is referred, please open it in raw mode.
